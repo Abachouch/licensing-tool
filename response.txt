@@ -1,0 +1,2 @@
+1- is your projects uses a code with the following licences : 
+    GPL ,  CC-BY-4.0  AGPL-3.0, EUPL-1.1, and GPL-2.0 , CERN OHL v2 ,  EUPL

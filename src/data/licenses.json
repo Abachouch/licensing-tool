@@ -1,0 +1,285 @@
+[
+    {
+        "name": "agpl-3.0",
+        "fullName": "GNU Affero General Public License v3.0",
+        "codeName": "AGPL-3.0",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "patent-use",
+                "private-use"
+            ],
+            "conditions": [
+                "include-copyright",
+                "document-changes",
+                "disclose-source",
+                "network-use-disclose",
+                "same-license"
+            ],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "apache-2.0",
+        "fullName": "Apache License 2.0",
+        "codeName": "Apache-2.0",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "patent-use",
+                "private-use"
+            ],
+            "conditions": [
+                "include-copyright",
+                "document-changes"
+            ],
+            "limitations": [
+                "trademark-use",
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "bsd-2-clause",
+        "fullName": "BSD 2-Clause \"Simplified\" License",
+        "codeName": "BSD-2-Clause",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "private-use"
+            ],
+            "conditions": [
+                "include-copyright"
+            ],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "bsd-3-clause",
+        "fullName": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "codeName": "BSD-3-Clause",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "private-use"
+            ],
+            "conditions": [
+                "include-copyright"
+            ],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "bsl-1.0",
+        "fullName": "Boost Software License 1.0",
+        "codeName": "BSL-1.0",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "private-use"
+            ],
+            "conditions": [
+                "include-copyright--source"
+            ],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "cc0-1.0",
+        "fullName": "Creative Commons Zero v1.0 Universal",
+        "codeName": "CC0-1.0",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "private-use"
+            ],
+            "conditions": [],
+            "limitations": [
+                "liability",
+                "trademark-use",
+                "patent-use",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "epl-2.0",
+        "fullName": "Eclipse Public License 2.0",
+        "codeName": "EPL-2.0",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "distribution",
+                "modifications",
+                "patent-use",
+                "private-use"
+            ],
+            "conditions": [
+                "disclose-source",
+                "include-copyright",
+                "same-license"
+            ],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "gpl-2.0",
+        "fullName": "GNU General Public License v2.0",
+        "codeName": "GPL-2.0",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "private-use"
+            ],
+            "conditions": [
+                "include-copyright",
+                "document-changes",
+                "disclose-source",
+                "same-license"
+            ],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "gpl-3.0",
+        "fullName": "GNU General Public License v3.0",
+        "codeName": "GPL-3.0",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "patent-use",
+                "private-use"
+            ],
+            "conditions": [
+                "include-copyright",
+                "document-changes",
+                "disclose-source",
+                "same-license"
+            ],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "lgpl-2.1",
+        "fullName": "GNU Lesser General Public License v2.1",
+        "codeName": "LGPL-2.1",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "private-use"
+            ],
+            "conditions": [
+                "include-copyright",
+                "disclose-source",
+                "document-changes",
+                "same-license--library"
+            ],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "mit",
+        "fullName": "MIT License",
+        "codeName": "MIT",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "private-use"
+            ],
+            "conditions": [
+                "include-copyright"
+            ],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "mpl-2.0",
+        "fullName": "Mozilla Public License 2.0",
+        "codeName": "MPL-2.0",
+        "props": {
+            "permissions": [
+                "commercial-use",
+                "modifications",
+                "distribution",
+                "patent-use",
+                "private-use"
+            ],
+            "conditions": [
+                "disclose-source",
+                "include-copyright",
+                "same-license--file"
+            ],
+            "limitations": [
+                "liability",
+                "trademark-use",
+                "warranty"
+            ]
+        }
+    },
+    {
+        "name": "unlicense",
+        "fullName": "The Unlicense",
+        "codeName": "Unlicense",
+        "props": {
+            "permissions": [
+                "private-use",
+                "commercial-use",
+                "modifications",
+                "distribution"
+            ],
+            "conditions": [],
+            "limitations": [
+                "liability",
+                "warranty"
+            ]
+        }
+    }
+]
