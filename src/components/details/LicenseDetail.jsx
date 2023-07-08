@@ -45,6 +45,12 @@ function LicenseDetails() {
                     <Card variant="sharp" elevation={1}  >
                         <CardContent>
                             <Typography variant="body2" > {license.description} </Typography>
+
+                            <Typography> permissions</Typography>
+                            <Typography> conditions</Typography>
+                            <Typography> limitations</Typography>
+
+
                         </CardContent>
                     </Card>
                 </Grid>
